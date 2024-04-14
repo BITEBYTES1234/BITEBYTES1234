@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development, C Language, AI and many more
 - 🌱 I’m currently learning BCA in Techno Main Saltlake.
 - 📫 How to reach me: ishasaha4462@gmail.com
-- - 😄 Pronouns: she/her
+- Technologies used: HTML and CSS.
+
 
 <!---
 BITEBYTES1234/BITEBYTES1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
